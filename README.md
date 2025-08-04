@@ -1,7 +1,6 @@
-# Dashboard-de-Transporte-Power-BI
-Analiza costos, eficiencia y ocupabilidad del transporte de personal. Ideal para optimizar flotas y reducir gastos. Incluye:  Costo por persona/ruta  Ocupabilidad (%)  Comparativas históricas  Filtros interactivos  Tecnologías: Power BI, DAX, Power Query.
-
 # Dashboard de Gestión de Transporte de Personal - Power BI
+
+![Dashboard de Recursos Humanos](https://github.com/JulioRubio6767/Dashboard-de-Transporte-Power-BI/blob/main/assets/dashboard%20transporte%20pbi.gif)
 
 ## 📌 Descripción General
 Solución integral para la monitorización y optimización de flotas de transporte corporativo, diseñada especialmente para el sector agrícola donde los costos logísticos representan un porcentaje significativo de los gastos operacionales.
