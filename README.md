@@ -50,4 +50,3 @@ Solución integral para la monitorización y optimización de flotas de transpor
 4. **Visualización**: Diseño de reportes interactivos
 5. **Publicación**: Distribución vía Power BI Service
 
-## 📂 Estructura del Proyecto
